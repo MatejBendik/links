@@ -13,9 +13,21 @@ const Socials = () => {
         />
         <ButtonWithIcon
           href="https://www.linkedin.com/in/matejbendik/"
-          name="linkedin"
+          name="linkedIn"
           icon="linkedin.webp"
           followers_count={269}
+        />
+        <ButtonWithIcon
+          href="https://www.github.com/MatejBendik"
+          name="GitHub"
+          icon="github.webp"
+          followers_count={217}
+        />
+        <ButtonWithIcon
+          href="https://www.instagram.com/matejbendik"
+          name="Instagram"
+          icon="instagram.webp"
+          followers_count={1869}
         />
       </div>
     </section>

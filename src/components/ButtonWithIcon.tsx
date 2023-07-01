@@ -43,7 +43,8 @@ const ButtonWithIcon = (props: {
         <div className="flex-1 px-4">
           <h2 className="text-xl font-bold -mb-1">{name}</h2>
           <p className="text-gray-500">
-            {formatNumber(followers_count)} followers
+            {formatNumber(followers_count)}
+            {name === "Gumroad" ? " products" : " followers"}
           </p>
         </div>
         <div>
