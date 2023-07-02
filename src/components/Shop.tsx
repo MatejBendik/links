@@ -9,7 +9,7 @@ const Shop = () => {
           href="https://matejbendik.gumroad.com/"
           name="Gumroad"
           icon="gumroad.webp"
-          followers_count={3}
+          followers_count={4}
         />
       </div>
     </section>
