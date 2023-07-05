@@ -11,13 +11,13 @@ const socials = [
     href: "https://www.linkedin.com/in/matejbendik/",
     name: "linkedIn",
     icon: "linkedin.webp",
-    followers_count: 269,
+    followers_count: 275,
   },
   {
     href: "https://www.github.com/MatejBendik",
     name: "GitHub",
     icon: "github.webp",
-    followers_count: 217,
+    followers_count: 310,
   },
   {
     href: "https://www.instagram.com/matejbendik",
