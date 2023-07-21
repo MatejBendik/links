@@ -5,7 +5,7 @@ const socials = [
     href: "https://twitter.com/BendikMatej",
     name: "Twitter",
     icon: "twitter.webp",
-    followers_count: 12750,
+    followers_count: 12770,
   },
   {
     href: "https://www.linkedin.com/in/matejbendik/",
@@ -17,7 +17,7 @@ const socials = [
     href: "https://www.github.com/MatejBendik",
     name: "GitHub",
     icon: "github.webp",
-    followers_count: 318,
+    followers_count: 319,
   },
   {
     href: "https://www.instagram.com/matejbendik",
