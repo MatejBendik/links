@@ -3,15 +3,15 @@ import ButtonWithIcon from "./ButtonWithIcon";
 const socials = [
   {
     href: "https://twitter.com/BendikMatej",
-    name: "Twitter",
-    icon: "twitter.webp",
-    followers_count: 12763,
+    name: "𝕏",
+    icon: "x.webp",
+    followers_count: 13437,
   },
   {
     href: "https://www.linkedin.com/in/matejbendik/",
     name: "linkedIn",
     icon: "linkedin.webp",
-    followers_count: 292,
+    followers_count: 295,
   },
   {
     href: "https://www.github.com/MatejBendik",
