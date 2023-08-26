@@ -1,9 +1,9 @@
 import ButtonWithIcon from "./ButtonWithIcon";
 
-const Shop = () => {
+const Products = () => {
   return (
     <section className="mb-12">
-      <h2 className="text-center text-[1.7rem] font-semibold mb-3">Shop</h2>
+      <h2 className="text-center text-[1.7rem] font-semibold mb-3">Products</h2>
       <div className="flex flex-col gap-4">
         <ButtonWithIcon
           href="https://matejbendik.gumroad.com/"
@@ -11,9 +11,15 @@ const Shop = () => {
           icon="gumroad.webp"
           followers_count={5}
         />
+        <ButtonWithIcon
+          href="https://www.producthunt.com/@bendikmatej"
+          name="Product Hunt"
+          icon="producthunt.webp"
+          followers_count={1}
+        />
       </div>
     </section>
   );
 };
 
-export default Shop;
+export default Products;

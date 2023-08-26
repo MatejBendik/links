@@ -20,12 +20,6 @@ const socials = [
     followers_count: 316,
   },
   {
-    href: "https://www.producthunt.com/@bendikmatej",
-    name: "Product Hunt",
-    icon: "producthunt.webp",
-    followers_count: 1,
-  },
-  {
     href: "https://www.instagram.com/matejbendik",
     name: "Instagram",
     icon: "instagram.webp",
