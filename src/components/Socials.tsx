@@ -5,13 +5,13 @@ const socials = [
     href: "https://twitter.com/bendikmatej",
     name: "𝕏",
     icon: "x.webp",
-    followers_count: 14509,
+    followers_count: 14763,
   },
   {
     href: "https://www.threads.net/@matejbendik",
     name: "Threads",
     icon: "threads.webp",
-    followers_count: 487,
+    followers_count: 496,
   },
   {
     href: "https://www.linkedin.com/in/matejbendik/",
