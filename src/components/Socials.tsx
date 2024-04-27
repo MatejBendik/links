@@ -11,7 +11,7 @@ const socials = [
     href: "https://www.threads.net/@matejbendik",
     name: "Threads",
     icon: "threads.webp",
-    followers_count: 541,
+    followers_count: 560,
   },
   {
     href: "https://www.linkedin.com/in/matejbendik/",
