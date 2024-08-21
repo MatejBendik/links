@@ -9,13 +9,13 @@ const Products = () => {
           href="https://matejbendik.gumroad.com/"
           name="Gumroad"
           icon="gumroad.webp"
-          followers_count={5}
+          followers_count={6}
         />
         <ButtonWithIcon
           href="https://www.producthunt.com/@bendikmatej"
           name="Product Hunt"
           icon="producthunt.webp"
-          followers_count={1}
+          followers_count={2}
         />
       </div>
     </section>
