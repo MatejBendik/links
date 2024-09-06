@@ -11,7 +11,7 @@ const socials = [
     href: "https://www.threads.net/@matejbendik",
     name: "Threads",
     icon: "threads.webp",
-    followers_count: 769,
+    followers_count: 771,
   },
   {
     href: "https://www.linkedin.com/in/matejbendik/",
@@ -23,7 +23,7 @@ const socials = [
     href: "https://www.github.com/MatejBendik",
     name: "GitHub",
     icon: "github.webp",
-    followers_count: 322,
+    followers_count: 318,
   },
   {
     href: "https://www.instagram.com/matejbendik",
