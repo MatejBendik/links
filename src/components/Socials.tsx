@@ -23,7 +23,7 @@ const socials = [
     href: "https://www.github.com/MatejBendik",
     name: "GitHub",
     icon: "github.webp",
-    followers_count: 318,
+    followers_count: 316,
   },
   {
     href: "https://www.instagram.com/matejbendik",
